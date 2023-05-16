@@ -1,0 +1,18 @@
+.showcase-card {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin: 10px;
+  text-align: center;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.showcase-image {
+  width: 100%;
+  height: auto;
+}
+
+.showcase-name {
+  font-size: 20px;
+  color: white;
+}
